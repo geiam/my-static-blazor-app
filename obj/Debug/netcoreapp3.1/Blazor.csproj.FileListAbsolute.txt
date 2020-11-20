@@ -1,0 +1,3 @@
+C:\Projetos\Blazor\obj\Debug\netcoreapp3.1\Blazor.csprojAssemblyReference.cache
+C:\Projetos\Blazor\obj\Debug\netcoreapp3.1\Blazor.AssemblyInfoInputs.cache
+C:\Projetos\Blazor\obj\Debug\netcoreapp3.1\Blazor.AssemblyInfo.cs
